@@ -1,6 +1,6 @@
 # Summary
 
-This repository implements a custom Unity logging library that provides some extra features that proved to be useful at times. Different versions of it are used in existing Unity projects, such as Upperdeck, Birds, Fraport and VW DLPC. For a more in-depth description on how to use custom logging API and editor windows, take a look at the **[User Manual](Docs/UserManual.md)**.
+This repository implements a custom Unity logging library that provides some extra features that proved to be useful at times. For a more in-depth description on how to use custom logging API and editor windows, take a look at the **[User Manual](Docs/UserManual.md)**.
 
 # Features
 
