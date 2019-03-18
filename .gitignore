@@ -1,0 +1,17 @@
+Logs
+Library
+Logging.sln
+Logging.userprefs
+Assembly-CSharp.csproj
+Temp
+custom-unity-logging.sln
+custom-unity-logging.userprefs
+obj
+bin
+ManagedPlugin/Source/Core/bin
+ManagedPlugin/Source/Core/obj
+ManagedPlugin/Source/Editor/bin
+ManagedPlugin/Source/Editor/obj
+ManagedPlugin/ManagedPlugin.userprefs
+ManagedPlugin/Source/Core/obj/Release/CustomUnityLogging.csproj.FilesWrittenAbsolute.txt
+/Assembly-CSharp-Editor.csproj

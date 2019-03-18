@@ -1,0 +1,16 @@
+{
+    "name": "custom-unity-logging.Editor",
+    "references": [
+        "custom-unity-logging"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
